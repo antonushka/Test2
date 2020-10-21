@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A4D1758F2540357B00012212 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4D1758E2540357B00012212 /* Launch Screen.storyboard */; };
 		A4D79DD025402B9E00CC3064 /* Test2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D79DCF25402B9E00CC3064 /* Test2App.swift */; };
 		A4D79DD225402B9E00CC3064 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D79DD125402B9E00CC3064 /* ContentView.swift */; };
 		A4D79DD425402B9F00CC3064 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A4D79DD325402B9F00CC3064 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A4D1758E2540357B00012212 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		A4D79DCC25402B9E00CC3064 /* Test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4D79DCF25402B9E00CC3064 /* Test2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2App.swift; sourceTree = "<group>"; };
 		A4D79DD125402B9E00CC3064 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				A4D79DCF25402B9E00CC3064 /* Test2App.swift */,
 				A4D79DD125402B9E00CC3064 /* ContentView.swift */,
 				A4D79DD325402B9F00CC3064 /* Assets.xcassets */,
+				A4D1758E2540357B00012212 /* Launch Screen.storyboard */,
 				A4D79DD825402B9F00CC3064 /* Info.plist */,
 				A4D79DD525402B9F00CC3064 /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4D1758F2540357B00012212 /* Launch Screen.storyboard in Resources */,
 				A4D79DD725402B9F00CC3064 /* Preview Assets.xcassets in Resources */,
 				A4D79DD425402B9F00CC3064 /* Assets.xcassets in Resources */,
 			);
